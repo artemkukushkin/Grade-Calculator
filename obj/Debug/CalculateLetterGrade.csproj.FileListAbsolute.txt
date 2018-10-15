@@ -1,0 +1,10 @@
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmLetterGrade.resources
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\LetterGrade\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
